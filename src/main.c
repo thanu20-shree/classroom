@@ -1,4 +1,4 @@
-"Add basic C program structure in src"
+
 #include <stdio.h>
 
 int main() {
